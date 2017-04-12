@@ -40,14 +40,6 @@ before_install:
   # Install valgrind on Linux
   - if [ "$TRAVIS_OS_NAME" == "linux" ]; then sudo apt-get install -qq valgrind; fi
 
-notifications:
-  irc:
-    channels:
-      - "irc.gamers-irc.org#simulationcraft"
-    template:
-      - "%{repository}/%{branch} (%{commit} - %{author}): %{build_url}: %{message}"
-    on_success: never # default: always
-
 install:
   # Build SimulationCraft
   - make DEBUG=1 -C engine -j 2
