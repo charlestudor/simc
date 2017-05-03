@@ -1,0 +1,76 @@
+4/16 20:06:36.370  SPELL_AURA_APPLIED,Player-1300-0811CE75,"Swagilfare-Frostmane",0x518,0x0,Player-1300-0811CE75,"Swagilfare-Frostmane",0x518,0x0,207472,"Xavaric's Magnum Opus",0x1,BUFF,811549
+4/16 20:06:40.786  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,229206,"Potion of Prolonged Power",0x1,BUFF
+4/16 20:06:41.688  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:41.688  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:06:41.688  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,12654,"Ignite",0x4,DEBUFF
+4/16 20:06:43.799  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,116014,"Rune of Power",0x40,BUFF
+4/16 20:06:44.368  SPELL_AURA_APPLIED,Player-1596-0833C0A3,"Sengi-TheMaelstrom",0x518,0x0,Player-1596-0833C0A3,"Sengi-TheMaelstrom",0x518,0x0,212799,"Displacement Beacon",0x40,BUFF
+4/16 20:06:44.368  SPELL_AURA_APPLIED,Player-1596-0833C0A3,"Sengi-TheMaelstrom",0x518,0x0,Player-1596-0833C0A3,"Sengi-TheMaelstrom",0x518,0x0,1953,"Blink",0x40,BUFF
+4/16 20:06:44.881  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,190319,"Combustion",0x4,BUFF
+4/16 20:06:45.971  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:46.491  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,155158,"Meteor Burn",0x4,DEBUFF
+4/16 20:06:46.606  SPELL_AURA_APPLIED,Player-1596-09C125DB,"Sihas-TheMaelstrom",0x548,0x0,Player-1596-09C125DB,"Sihas-TheMaelstrom",0x548,0x0,186401,"Sign of the Skirmisher",0x1,BUFF
+4/16 20:06:47.724  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:48.528  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:48.533  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,194522,"Blast Furnace",0x4,DEBUFF
+4/16 20:06:50.422  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:50.480  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,226757,"Conflagration",0x4,DEBUFF
+4/16 20:06:50.485  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:51.340  SPELL_AURA_APPLIED,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:06:51.340  SPELL_AURA_APPLIED,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,194316,"Cauterizing Blink",0x4,BUFF
+4/16 20:06:51.859  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:51.861  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:52.204  SPELL_AURA_APPLIED,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:06:52.204  SPELL_AURA_APPLIED,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:06:52.204  SPELL_AURA_APPLIED,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,194316,"Cauterizing Blink",0x4,BUFF
+4/16 20:06:53.008  SPELL_AURA_APPLIED,Player-1596-09735A69,"Tundulum-TheMaelstrom",0x518,0x0,Player-1596-09735A69,"Tundulum-TheMaelstrom",0x518,0x0,43681,"Inactive",0x1,DEBUFF
+4/16 20:06:53.008  SPELL_AURA_APPLIED,Player-1596-09735A69,"Tundulum-TheMaelstrom",0x518,0x0,Player-1596-09735A69,"Tundulum-TheMaelstrom",0x518,0x0,94028,"Inactive",0x1,DEBUFF
+4/16 20:06:53.177  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:53.177  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:54.326  SPELL_AURA_APPLIED,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,Player-1300-04254F38,"Jáckpot-Frostmane",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:06:54.499  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:55.355  SPELL_AURA_APPLIED,Player-1300-04F84C5F,"Sidé-Frostmane",0x518,0x0,Player-1300-04F84C5F,"Sidé-Frostmane",0x518,0x0,11426,"Ice Barrier",0x10,BUFF,815387,1,0
+4/16 20:06:55.355  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:06:55.641  SPELL_AURA_APPLIED,Player-1300-06464847,"Rinîon-Frostmane",0x518,0x0,Player-1300-06464847,"Rinîon-Frostmane",0x518,0x0,235313,"Blazing Barrier",0x4,BUFF,146025,0,0
+4/16 20:06:57.126  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:06:58.624  SPELL_AURA_APPLIED,Player-1300-0452D2FD,"Getrektkiddo-Frostmane",0x518,0x0,Player-1300-0452D2FD,"Getrektkiddo-Frostmane",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:06:59.928  SPELL_AURA_APPLIED,Player-1300-0452D2FD,"Getrektkiddo-Frostmane",0x518,0x0,Player-1300-0452D2FD,"Getrektkiddo-Frostmane",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:00.167  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:07:01.773  SPELL_AURA_APPLIED,Player-1596-09B3057A,"Uptoké-TheMaelstrom",0x518,0x0,Player-1596-09B3057A,"Uptoké-TheMaelstrom",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:04.110  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,217694,"Living Bomb",0x4,DEBUFF
+4/16 20:07:04.510  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,157644,"Enhanced Pyrotechnics",0x1,BUFF
+4/16 20:07:04.622  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,226757,"Conflagration",0x4,DEBUFF
+4/16 20:07:06.498  SPELL_AURA_APPLIED,Player-1300-0811CE75,"Swagilfare-Frostmane",0x518,0x0,Player-1300-0811CE75,"Swagilfare-Frostmane",0x518,0x0,207472,"Xavaric's Magnum Opus",0x1,BUFF,820756
+4/16 20:07:07.412  SPELL_AURA_APPLIED,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:07.412  SPELL_AURA_APPLIED,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,Player-1596-085E0651,"Tamazin-TheMaelstrom",0x518,0x0,194316,"Cauterizing Blink",0x4,BUFF
+4/16 20:07:07.641  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:07.641  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:08.496  SPELL_AURA_APPLIED,Player-1300-04F84C5F,"Sidé-Frostmane",0x518,0x0,Player-1300-04F84C5F,"Sidé-Frostmane",0x518,0x0,207472,"Xavaric's Magnum Opus",0x1,BUFF,1006835
+4/16 20:07:09.237  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:07:09.350  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,157644,"Enhanced Pyrotechnics",0x1,BUFF
+4/16 20:07:10.437  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:10.440  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:11.696  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,225774,"Nefarious Pact",0x1,BUFF
+4/16 20:07:13.180  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:07:14.553  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,157644,"Enhanced Pyrotechnics",0x1,BUFF
+4/16 20:07:14.840  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:14.953  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:16.720  SPELL_AURA_APPLIED,Player-1596-09C125DB,"Sihas-TheMaelstrom",0x548,0x0,Player-1596-09C125DB,"Sihas-TheMaelstrom",0x548,0x0,207472,"Xavaric's Magnum Opus",0x1,BUFF,843442
+4/16 20:07:17.756  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:07:19.240  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:20.834  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,227482,"Scorched Earth",0x4,BUFF
+4/16 20:07:20.834  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,236060,"Frenetic Speed",0x4,BUFF
+4/16 20:07:22.605  SPELL_AURA_APPLIED,Player-1300-06464847,"Rinîon-Frostmane",0x518,0x0,Player-1300-06464847,"Rinîon-Frostmane",0x518,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:23.403  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:23.407  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:23.748  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,225776,"Devil's Due",0x1,BUFF
+4/16 20:07:27.733  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:27.736  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:29.376  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48108,"Hot Streak!",0x1,BUFF
+4/16 20:07:29.376  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Creature-0-3061-1513-29975-103397-00006EE850,"Greater Bulwark Construct",0x10a28,0x0,194522,"Blast Furnace",0x4,DEBUFF
+4/16 20:07:34.045  SPELL_AURA_APPLIED,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:34.045  SPELL_AURA_APPLIED,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,207283,"Belo'vir's Final Stand",0x40,BUFF,704928
+4/16 20:07:35.475  SPELL_AURA_APPLIED,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,212653,"Shimmer",0x40,BUFF
+4/16 20:07:36.625  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,48107,"Heating Up",0x4,BUFF
+4/16 20:07:36.625  SPELL_AURA_APPLIED,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,Player-1596-09BBAC57,"Moob-TheMaelstrom",0x511,0x0,194329,"Pyretic Incantation",0x4,BUFF
+4/16 20:07:36.972  SPELL_AURA_APPLIED,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,Player-1596-083F213E,"Ghostreaper-Lightning'sBlade",0x548,0x0,11426,"Ice Barrier",0x10,BUFF,749215,1,0

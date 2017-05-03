@@ -1569,6 +1569,7 @@ void to_json( JsonOutput root, const sim_t& sim )
   options_root[ "optimize_expressions" ] = sim.optimize_expressions;
   options_root[ "optimal_raid" ] = sim.optimal_raid;
   options_root[ "log" ] = sim.log;
+  options_root[ "combat_log" ] = sim.combat_log;
   options_root[ "debug_each" ] = sim.debug_each;
   options_root[ "auto_ready_trigger" ] = sim.auto_ready_trigger;
   options_root[ "stat_cache" ] = sim.stat_cache;
@@ -1726,6 +1727,7 @@ js::sc_js_t to_json( const sim_t& sim )
   node.set( "optimize_expressions", sim.optimize_expressions );
   node.set( "optimal_raid", sim.optimal_raid );
   node.set( "log", sim.log );
+  node.set( "combat_log", sim.combat_log );
   node.set( "debug_each", sim.debug_each );
   node.set( "auto_ready_trigger", sim.auto_ready_trigger );
   node.set( "stat_cache", sim.stat_cache );

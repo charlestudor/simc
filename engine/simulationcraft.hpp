@@ -1501,6 +1501,7 @@ struct sim_t : private sc_thread_t
   // Output
   sim_ostream_t out_std;
   sim_ostream_t out_log;
+  sim_ostream_t out_combat_log;
   sim_ostream_t out_debug;
   bool debug;
 
@@ -1549,7 +1550,7 @@ struct sim_t : private sc_thread_t
   timespan_t  ignite_sampling_delta;
   bool        fixed_time, optimize_expressions;
   int         current_slot;
-  int         optimal_raid, log, debug_each;
+  int         optimal_raid, log, combat_log, debug_each;
   std::vector<uint64_t> debug_seed;
   int         save_profiles, default_actions;
   stat_e      normalized_stat;
@@ -1674,7 +1675,7 @@ struct sim_t : private sc_thread_t
   std::vector<player_t*> targets_by_name;
   std::vector<std::string> id_dictionary;
   std::map<double, std::vector<double> > divisor_timeline_cache;
-  std::string output_file_str, html_file_str, json_file_str, json2_file_str;
+  std::string output_file_str, combat_output_file_str, html_file_str, json_file_str, json2_file_str;
   std::string xml_file_str, xml_stylesheet_file_str;
   std::string reforge_plot_output_file_str;
   std::vector<std::string> error_list;

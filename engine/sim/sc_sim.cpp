@@ -1314,6 +1314,7 @@ sim_t::sim_t( sim_t* p, int index ) :
   event_mgr( this ),
   out_std( *this, &std::cout, sim_ostream_t::no_close() ),
   out_log( *this, &std::cout, sim_ostream_t::no_close() ),
+  out_combat_log(*this, &std::cout, sim_ostream_t::no_close() ),
   out_debug(*this, &std::cout, sim_ostream_t::no_close() ),
   debug( false ),
   max_time( timespan_t::zero() ),
@@ -1355,7 +1356,7 @@ sim_t::sim_t( sim_t* p, int index ) :
   ignite_sampling_delta( timespan_t::from_seconds( 0.2 ) ),
   fixed_time( false ), optimize_expressions( false ),
   current_slot( -1 ),
-  optimal_raid( 0 ), log( 0 ), debug_each( 0 ), save_profiles( 0 ), default_actions( 0 ),
+  optimal_raid( 0 ), log( 0 ), combat_log( 0 ), debug_each( 0 ), save_profiles( 0 ), default_actions( 0 ),
   normalized_stat( STAT_NONE ),
   default_region_str( "us" ),
   save_prefix_str( "save_" ),
@@ -1637,6 +1638,7 @@ void sim_t::combat_begin()
       out_std = o;
       out_debug = o;
       out_log = o;
+	  out_combat_log = o;
 
       out_std.printf( "------ Iteration #%i ------", current_iteration + 1 );
       std::flush( *out_std.get_stream() );
@@ -3042,6 +3044,8 @@ void sim_t::create_options()
   add_option( opt_string( "xml_style", xml_stylesheet_file_str ) );
   add_option( opt_bool( "log", log ) );
   add_option( opt_string( "output", output_file_str ) );
+  add_option( opt_bool("combat_log", combat_log ) );
+  add_option( opt_string("combat_output", combat_output_file_str ) );
   add_option( opt_bool( "save_raid_summary", save_raid_summary ) );
   add_option( opt_bool( "save_gear_comments", save_gear_comments ) );
   add_option( opt_bool( "buff_uptime_timeline", buff_uptime_timeline ) );
@@ -3257,6 +3261,7 @@ void sim_t::setup( sim_control_t* c )
   {
     debug = 0;
     log = 0;
+    combat_log = 0;
   }
   else if ( ! output_file_str.empty() )
   {
@@ -3286,7 +3291,7 @@ void sim_t::setup( sim_control_t* c )
 
   adjust_threads( threads );
 
-  if ( log )
+  if ( log || combat_log )
   {
     if ( ! debug_each )
       iterations = 1;

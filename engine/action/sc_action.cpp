@@ -1260,6 +1260,9 @@ void action_t::consume_resource()
                    last_resource_cost, util::resource_type_string( cr ),
                    name(), player -> resources.current[ cr ] );
 
+  if (sim->combat_log)
+    sim->out_combat_log.printf("hello!");
+
   stats -> consume_resource( current_resource(), last_resource_cost );
 }
 
